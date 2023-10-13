@@ -1,7 +1,16 @@
-# This is a sample Python script.
+# git config --global user.name "your username"
+# git config --global user.email "youremail@gmail.com"
+# git init
+# git status
+# git add .
+# git commit -m "new commit"
+# git branch -M main
+# git remote add origin https://github.com/wiut-tutor/se5.git
+# git push origin main
+# git branch newbranch
+# git checkout newbranch
+# make updates to a file 
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
 def print_hi(name):
