@@ -10,6 +10,8 @@
 # git branch newbranch
 # git checkout newbranch
 # make updates to a file 
+# git add .
+# git commit -m "new commit"
 
 
 
